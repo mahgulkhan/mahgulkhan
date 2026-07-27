@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 I’m interested in digital art and web designing.<br>📚 I have learnt C++, C#, HTML, CSS, Python, MySQL, SQL, DSA and OOP<br>💞️ I’m looking forward to enhance my skills in the field of graphic designing, AI and digital art.<br>📫 Here's my linkedin profile link: https://www.linkedin.com/in/mah-gul-khan-065763327/</p>
+<p align="left">🎯 I’m interested in digital art and web designing.<br>📚 I have learnt C++, C#, HTML, CSS, Python, MySQL, SQL, DSA, DAA, OOP, Computer Assembly, Machine Language, AI and ML<br>💞️ I’m looking forward to enhance my skills in the field of graphic designing, AI and digital art.<br>📫 Here's my linkedin profile link: https://www.linkedin.com/in/mah-gul-khan-065763327/</p>
 
 ###
 
@@ -48,6 +48,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" height="40" alt="assembly logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" height="40" alt="x86 assembly logo"  />
 </div>
-
-###
