@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">🎯 I’m interested in digital art and web designing.<br>📚 I have learnt C++, C#, HTML, CSS, Python, MySQL, SQL, DSA, DAA, OOP, Computer Assembly, Machine Language, AI and ML<br>💞️ I’m looking forward to enhance my skills in the field of graphic designing, AI and digital art.<br>📫 Here's my linkedin profile link: https://www.linkedin.com/in/mah-gul-khan-065763327/</p>
+<p align="left">
+  🎯 I’m interested in digital art and web designing.
+  <br>📚 I have learnt C++, C#, HTML, CSS, Python, MySQL, SQL, DSA, DAA, OOP, Computer Assembly, Machine Language, AI and ML
+  <br>💞️ I’m looking forward to enhance my skills in the field of graphic designing, AI and digital art.
+  <br>🌟 Here is my portfolio link: https://mahgulkhan.github.io/
+  <br>📫 And my linkedin profile link is: https://www.linkedin.com/in/mah-gul-khan-065763327/
+</p>
 
 ###
 
