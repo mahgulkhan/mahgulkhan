@@ -1,6 +1,6 @@
 # Hi, I'm Mah Gul Khan
 
-**Computer Science undergraduate at UET Lahore** · Multilingual NLP · Applied Machine Learning · Full-Stack Development · Database Management Systems
+ Multilingual NLP · Applied Machine Learning · Full-Stack Development · Database Management Systems
 
 
 I build data-driven systems, from NLP models for code-switched Roman Urdu–English text to web platforms backed by multiple databases. I'm interested in research at the intersection of applied machine learning, data-driven decision systems and human-centered interface design.
